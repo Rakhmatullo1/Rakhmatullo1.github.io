@@ -1,0 +1,18 @@
+body {
+    background-color: darkgray;
+    color:aliceblue;
+    
+}
+a {
+    color:coral;
+}
+b {
+    color:cadetblue;
+}
+h1,h2 {
+    color: #1B364F;
+}
+.con,.c {
+    display: inline-block;
+    
+}
